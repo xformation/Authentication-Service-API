@@ -1,0 +1,37 @@
+{
+  "generator-jhipster": {
+    "promptValues": {
+      "packageName": "com.brighton"
+    },
+    "jhipsterVersion": "6.10.1",
+    "applicationType": "microservice",
+    "baseName": "AuthenticationServiceApi",
+    "packageName": "com.brighton",
+    "packageFolder": "com/brighton",
+    "serverPort": "4040",
+    "authenticationType": "jwt",
+    "cacheProvider": "no",
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "postgresql",
+    "prodDatabaseType": "postgresql",
+    "searchEngine": false,
+    "messageBroker": false,
+    "serviceDiscoveryType": false,
+    "buildTool": "maven",
+    "enableSwaggerCodegen": false,
+    "jwtSecretKey": "NTY3Mzc0N2U3M2Q1MTMzYzkwMjAxNmU4ZjY5MTVhMWJiNTk3YTg5MTIzMmQ3YjBkNGViM2NhMjk2MDY1NTc0MGVlNjE3Y2Y1NGNhMjVkNjQzZDI5M2Q1YmYzNDgxNTdhMWU2ZTNhZDE0MGE5NTkwNWFjMWNhZTg5Y2IxYmE0NTQ=",
+    "embeddableLaunchScript": false,
+    "creationTimestamp": 1597645729255,
+    "testFrameworks": [],
+    "jhiPrefix": "jhi",
+    "entitySuffix": "",
+    "dtoSuffix": "DTO",
+    "otherModules": [],
+    "enableTranslation": false,
+    "clientPackageManager": "npm",
+    "blueprints": [],
+    "skipClient": true,
+    "skipUserManagement": true
+  }
+}
