@@ -1,0 +1,1 @@
+java -jar target\authentication-service-api-0.0.1-SNAPSHOT.jar
